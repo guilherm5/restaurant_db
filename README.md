@@ -1,4 +1,4 @@
-Descrição das Tabelas do Modelo de Banco de Dados para Restaurantes
+Descrição das Tabelas do Modelo de Banco de Dados restaurant
 Este projeto foi desenvolvido para gerenciar informações relacionadas a pedidos em um ou mais restaurantes. O banco de dados inclui tabelas que registram detalhes sobre restaurantes, pedidos, itens do cardápio, taxas, e outros elementos essenciais para a operação.
 
 Estrutura do Banco de Dados
@@ -61,11 +61,3 @@ Restaurantes (restaurant): "Restaurant A", "Restaurant B".
 Pedidos (guestChecks): Pedidos com números e totais variados.
 Itens do Cardápio (menuItems): Itens com impostos e preços definidos.
 Taxas (taxes e taxTypes): Tipos de taxas e seus valores.
-Uso
-Este modelo pode ser utilizado para:
-
-Gerenciar pedidos em múltiplos restaurantes.
-Calcular impostos e taxas de serviço.
-Rastrear itens do cardápio e suas vendas.
-Integrar com sistemas de front-end para exibição e controle.
-Nota: Para detalhes adicionais ou suporte, consulte a documentação ou entre em contato com o desenvolvedor responsável.
